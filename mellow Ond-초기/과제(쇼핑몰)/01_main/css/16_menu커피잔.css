@@ -1,0 +1,334 @@
+/* CSS 파일 최상단에 추가 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+ 
+}
+
+
+.swiper-wrapper {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+}
+
+.bag1 {
+  /* 가로 */
+  width: 100%;
+  /* 세로 */
+  height: 50vh;
+  /* 배경 이미지 */
+  background-image: url("../IMG/상단메인/커피상단.png");
+  /* 반복 멈춤 */
+  background-repeat: no-repeat;
+  /* 배경 이미지 가로 모두 채우기(훼손) */
+  background-size: cover;
+  /* 이미지의 중심을 보여주는 옵션 */
+  background-position: center;
+}
+
+.bag2 {
+  /* 가로 */
+  width: 100%;
+  /* 세로 */
+  height: 50vh;
+  /* 배경 이미지 */
+  background-image: url("../IMG/상단메인/커피상단.png");
+  /* 반복 멈춤 */
+  background-repeat: no-repeat;
+  /* 배경 이미지 가로 모두 채우기(훼손) */
+  background-size: cover;
+  /* 이미지의 중심을 보여주는 옵션 */
+  background-position: center;
+}
+
+
+/* // */
+
+
+
+/*  상단 메뉴판  */
+
+/* 기본 초기화 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* 레이아웃: 슬라이더 위에 메뉴 올리기 */
+.sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: rgba(170, 144, 120, 0.2); /* 투명도 조절 */
+  transition: background 0.3s;
+}
+
+.sidebar:hover {
+  background: rgba(151, 138, 123, 0.8); /* 마우스 올리면 배경 진하게 */
+}
+
+/* 메인 메뉴 가로 정렬 */
+.side-menu {
+  display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.side-menu > li {
+  position: relative;
+  left: 150px;
+  width: 160px;
+  text-align: center;
+}
+
+.side-menu > li > a {
+  display: block;
+  padding: 25px 0;
+  color: #fff;
+  font-weight: bold;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+
+
+.submenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  max-height: 0; /* 평소엔 높이 0 */
+  overflow: hidden;
+  transition: max-height 0.4s ease-in-out;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 마우스 올렸을 때 서브메뉴 노출 */
+.side-menu > li:hover .submenu {
+  max-height: 400px; /* 서브메뉴 높이에 맞게 넉넉히 설정 */
+}
+
+.submenu li a {
+  display: block;
+  padding: 12px 0;
+  font-size: 13px;
+  transition: background 0.2s;
+}
+
+.submenu li a:hover {
+  background: #f8f8f8;
+  color: #000;
+}
+
+/* 메인 슬라이더 (예시 높이) */
+.main-slider {
+  width: 100%;
+  height: 0;
+  background: #ffffff; /* 슬라이더 라이브러리(Swiper 등)가 들어갈 자리 */
+}
+
+/* // /
+
+
+/*  검색엔진  */
+
+.search-container {
+    width: 100%;
+    max-width: 200px; /* 검색창 최대 너비 */
+    margin: 0 auto;
+}
+
+.search-input-wrapper {
+    position: relative;
+    left: 400px;
+    top: 10px;
+    display: flex;
+    align-items: center;
+    border: 1px solid #333; /* 쇼핑몰 포인트 컬러로 변경 가능 */
+    border-radius: 25px;    /* 둥근 스타일 */
+    overflow: hidden;
+    padding: 5px 15px;
+    background: #ffffff;
+    transition: all 0.3s ease;
+}
+
+.search-input-wrapper:focus-within {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-color: #8f8577; /* 포커스 시 색상 */
+}
+
+.search-input-wrapper input {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 2px 2px;
+    font-size: 16px;
+    color: #333;
+}
+
+.search-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #333;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    transition: transform 0.2s ease;
+}
+
+.search-btn:hover {
+    transform: scale(1.1);
+}
+
+/* 모바일 대응 */
+@media (max-width: 480px) {
+    .search-container {
+        padding: 0 15px;
+    }
+}
+
+
+/* // /
+
+/*  가로 메뉴  */
+
+/* 가로 메뉴 전체 스타일 */
+.horizontal-menu {
+  width: 100%;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  position: sticky; /* 스크롤 시 상단 고정 (선택 사항) */
+  top: 0;
+  z-index: 100;
+}
+
+.horizontal-menu ul {
+  display: flex;
+  justify-content: center; /* 메뉴 중앙 정렬 */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.horizontal-menu ul li {
+  flex: 1; /* 메뉴 너비를 동일하게 배분 */
+  text-align: center;
+}
+
+.horizontal-menu ul li a {
+  display: block;
+  padding: 15px 0;
+  text-decoration: none;
+  color: #666;
+  font-size: 15px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+/* 마우스 호버 및 활성화 상태 */
+.horizontal-menu ul li a:hover,
+.horizontal-menu ul li a.active {
+  color: #000;
+  border-bottom: 3px solid #333; /* 하단 강조 선 */
+}
+
+/* 모바일 대응 */
+@media (max-width: 768px) {
+  .horizontal-menu ul li a {
+    font-size: 13px;
+    padding: 12px 0;
+  }
+}
+
+
+/* // */
+
+
+
+/*  하단 상품이미지 */
+
+/* 1. 브라우저 기본 여백 초기화 (이미지가 위로 붙게 함) */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-box5 {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+  top: 10px;
+    /* 🔥 이 세 줄을 추가합니다 🔥 */
+  display: flex;
+  justify-content: center; /* 가로 중앙 정렬 */
+  align-items: center;     /* 세로 중앙 정렬 */
+  /* 화면에서 보이지 않던 bottom: 1500px은 제거했습니다 */
+  height: 500px; /* 예시로 높이를 지정했습니다. 실제 사용 환경에 맞게 조절하세요. */
+}
+
+.new-label3{
+            font-size: 2.5rem;            
+            font-weight: 600;
+            position: absolute;
+            transform: translateY(-240px);
+}
+
+.new-label4{ 
+             font-size: 10px;
+             font-weight: 400;
+             position: absolute;
+             transform: translateY(-240px);
+            }
+
+/* 2. 가로 정렬 설정 */
+.product-class5 {
+  display: flex;
+  gap: 7px;
+  align-items: flex-start; /* 자식 요소들을 위쪽 기준(Top)으로 정렬 */
+  margin-top: 100px;
+  }
+
+.product5 {
+  flex: 1; /* 모든 상품 카드가 동일한 너비를 가짐 */
+  text-align: left;
+  display: flex;
+  flex-direction: column; /* 이미지-이름-가격 순서 유지 */
+}
+
+/* 3. 이미지 위치 강제 상단 고정 */
+.product5 img {
+  width: 340px;
+  height: 340px;
+  object-fit: cover;
+  display: block;    /* 이미지 하단 미세 여백 제거 */
+  margin-bottom: 20px; /* 이미지와 텍스트 사이 간격만 조절 */
+}
+
+.product5 p {
+  padding: 5 10px;
+}
