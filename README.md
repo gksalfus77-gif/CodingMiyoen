@@ -29,6 +29,7 @@
 <details>
 <summary>✨ MAIN 화면</summary>
 
+![IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EB%A9%94%EC%9D%B8%EB%A9%94%EB%89%B4.png?raw=true)
 - 서브메뉴 내용 1
 
 </details>
