@@ -1,7 +1,7 @@
 
 ## 🌐 CHARCAGE PROJECT
 
-# 프론트 기술스텍
+### 프론트 기술스텍
 | 기술 | 설명 |
 |------|------|
 | ![JSP](https://img.shields.io/badge/JSP-3d7ab5?style=flat-square&logoColor=white) | 서버 사이드 렌더링 기반 동적 HTML 생성 |
