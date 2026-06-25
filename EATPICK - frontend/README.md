@@ -17,9 +17,7 @@
 | 기술 | 설명 |
 |------|------|
 | ![frontmain](https://img.shields.io/badge/frontend-main-%236B7280) | 전체적인 사이트 UI/UX를 설계하고, 메인 화면을 HTML, CSS, React 기반으로 구현. |
-| ![Service Center](https://img.shields.io/badge/frontend-Service%20Center-%232563EB) | Service Center의 공지사항, 커뮤니티, FAQ, 고객센터 메뉴의 UI 및 기능 구현.|
-| ![Community](https://img.shields.io/badge/Service%20Center-Community-%230891B2) | HTML로 작업한것을 다시 TYPESCRPT 언어로 변경함.|
-| ![login-membership](https://img.shields.io/badge/login-membership-%230891B2) |로그인 페이지와 회원가입(Membership) 페이지의 UI 디자인 및 프론트엔드 개발을 담당했습니다.|
+| ![MANAGER PAGE](https://img.shields.io/badge/frontend-managerPage-yellow) | 운영 효율성을 극대화하기 위해 관리자 웹 시스템의 프론트엔드 전반을 총괄하여 설계 및 구현했습니다.|
 
 
 ## 💻 주요(내파트) 화면 및 기능 상세
