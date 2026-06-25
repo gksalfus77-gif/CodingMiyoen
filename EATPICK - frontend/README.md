@@ -38,7 +38,7 @@
 </details>
 
 <details>
-<summary>✨ 로그인/회원가입 </summary>
+<summary>✨ 관리자페이지 화면 </summary>
 
 ![LOG IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png?raw=true)
 
@@ -59,43 +59,3 @@
 
 </details>
 
-
-
-<details>
-<summary>✨ Service Center </summary>
-
-![공지사항 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD01.png?raw=true)
-
-### 📑[Sevice Center 공지사항 page]
-
-- 전체적인 공지사항 페이지를 만들고 헤드를 투명으로 만듬.
-
-![공지사항 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EA%B2%8C%EC%8B%9C%ED%8C%90.png?raw=true)
-
-### 📑[커뮤니티(Community) 화면]
-- 소통 활성화를 위한 참여형 구조: 고객이 직접 글을 작성하고 댓글로 소통할 수 있는 기능을 전면에 배치하여 서비스센터 내 활발한 유저 커뮤니티 형성.
-
-- 탭 기반의 카테고리 내비게이션: [전체], [자유게시판], [이용후기], [충전 팁], [공지사항]으로 분류하여 사용자가 원하는 주제의 게시글을 빠르게 필터링하도록 구현.
-
-- 직관적인 검색 및 글쓰기 UI: 게시글 검색 창과 메인 컬러(퍼플)가 적용된 '글쓰기' 버튼을 상단에 배치하여 유저의 행동 유도 및 접근성 극대화.
-
-- 대시보드형 통계 위젯 제공: 우측 하단에 '전체 게시글'과 '공지사항'의 개수를 실시간으로 시각화하는 커뮤니티 통계 컴포넌트 탑재.
-
-![자주묻는 질문](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EC%9E%90%EC%A3%BC%EB%AC%BB%EB%8A%94%20%EC%A7%88%EB%AC%B8.png?raw=true)
-
-- 효율적인 CS 응대를 위한 FAQ 구축: 사용자가 자주 묻는 질문들을 한눈에 확인하고 해결할 수 있도록 설계하여 고객센터의 운영 효율성 증대.
-
-- 통일감 있는 브랜드 디자인: 배너 상단의 '고객지원' 태그와 타이틀 텍스트에 메인 컬러(퍼플)를 적용하여 전체 웹사이트와의 시각적 일관성 확보.
-
-
-### 📑[고객센터 화면]
-
-![고객센터](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0.png?raw=true)
-
-- 다채널 고객 지원 내비게이션: 상단에 [1:1 고객문의], [커뮤니케이션], [자주 묻는 질문] 카드를 배치하여 원하는 지원 채널로의 즉각적인 이동 지원.
-
-- 직관적인 유선 상담 연동: 일반 전화상담(1588)과 24시간 긴급 출동(080) 번호를 이원화하고, 클릭 시 바로 연결 가능한 '전화 연결하기' 및 '긴급 호출하기' 액션 버튼 배치.
-
-</details>
-
-<a>더 자세한 내용을 ppt로 봐주세요</a>
