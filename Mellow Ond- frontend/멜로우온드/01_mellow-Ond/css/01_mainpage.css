@@ -79,6 +79,7 @@ a {
   z-index: 1000;
   background: rgba(170, 144, 120, 0.2); /* 투명도 조절 */
   transition: background 0.3s;
+
 }
 
 .sidebar:hover {
@@ -150,9 +151,11 @@ a {
 /* 로그인  */
 /* 3. 로그인 버튼 디자인 */
 .header-right { 
-               position: absolute;
-               transform: translateX(760px);
-               margin-top: 22px;               
+          display: flex;
+          justify-content: center;
+          margin-left: 5rem;  
+          transform: translateX(10rem);
+          padding: 25px;   
 }
 .login-btn {
   font-family: 'Montserrat', sans-serif; /* 영문 폰트 추천 */
@@ -161,7 +164,6 @@ a {
   letter-spacing: 0.1em;
   color: #333;
   padding: 3px 13px;
-
   transition: all 0.3s ease; /* 부드러운 효과 */
 }
 
@@ -332,7 +334,7 @@ a {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   position: absolute;
-  transform: translateX(430px);
+  transform: translateX(220px);
   margin-top: 80px;
 }
 .product3 img {
