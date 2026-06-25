@@ -30,12 +30,11 @@
 <summary>✨ MAIN 화면</summary>
 
 - 서브메뉴 내용 1
-- 서브메뉴 내용 2
-- 서브메뉴 내용 3
+
 </details>
 
 <details>
-<summary>✨ 추천 요청하기 보기</summary>
+<summary>✨ 로그인/회원가입 </summary>
 
 - 여기에 원하는 내용을 적으세요.
 </details>
