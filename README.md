@@ -26,10 +26,10 @@
 
 ## 💻 주요 화면 및 기능 상세
 
-<detaile>
+<details>
 <summary> main menu </summary>
 
 - 서브메뉴
 - 서브메뉴
 - 서브메뉴
-</detaile>
+</details>
