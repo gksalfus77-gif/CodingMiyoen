@@ -27,9 +27,15 @@
 ## 💻 주요 화면 및 기능 상세
 
 <details>
-<summary> main menu </summary>
+<summary>✨ MAIN 화면</summary>
 
-- 서브메뉴
-- 서브메뉴
-- 서브메뉴
+- 서브메뉴 내용 1
+- 서브메뉴 내용 2
+- 서브메뉴 내용 3
+</details>
+
+<details>
+<summary>✨ 추천 요청하기 보기</summary>
+
+- 여기에 원하는 내용을 적으세요.
 </details>
