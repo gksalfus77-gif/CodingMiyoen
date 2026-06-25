@@ -44,5 +44,6 @@
 <details>
 <summary>✨ 로그인/회원가입 </summary>
 
+![LOG IMG]()
 - 여기에 원하는 내용을 적으세요.
 </details>
