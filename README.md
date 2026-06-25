@@ -45,5 +45,11 @@
 <summary>✨ 로그인/회원가입 </summary>
 
 ![LOG IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png?raw=true)
-- 여기에 원하는 내용을 적으세요.
+
+- 사용자 접근성을 고려한 로그인/회원가입 인터페이스 구현
+
+- 백그라운드 비주얼과 조화를 이루는 투명도(Opacity) 기반의 로그인 폼 디자인
+
+- 입력 폼(ID/Password) 및 버튼 컴포넌트의 반응형 스타일링
+
 </details>
