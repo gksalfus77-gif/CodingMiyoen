@@ -54,5 +54,6 @@
 - 입력 폼(ID/Password) 및 버튼 컴포넌트의 반응형 스타일링
 
 
+![membership IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png?raw=true)
 
 </details>
