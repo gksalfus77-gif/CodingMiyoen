@@ -68,5 +68,6 @@
 <details>
 <summary>✨ Service Center </summary>
 
+![공지사항 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD01.png?raw=true)
 
 </details>
