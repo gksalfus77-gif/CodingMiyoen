@@ -54,6 +54,11 @@
 - 입력 폼(ID/Password) 및 버튼 컴포넌트의 반응형 스타일링
 
 
-![membership IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png?raw=true)
+![membership IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png?raw=true)
+
+### 📑[회원가입(Sign Up) 화면]
+- 도메인 특화 입력 폼 설계: 일반 정보(이름, 이메일, 비밀번호, 전화번호) 외에 전기차 충전 서비스에 필수적인 '차량번호' 입력란을 기본 폼에 배치하여 비즈니스 요구사항 충족.
+
+- 일관된 UI 톤앤매너 유지: 서비스 메인 컬러(퍼플)를 포인트 컬러 및 '가입 신청하기' 버튼에 적용하여 브랜드 아이덴티티 강화.
 
 </details>
