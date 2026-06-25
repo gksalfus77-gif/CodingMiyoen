@@ -70,4 +70,20 @@
 
 ![공지사항 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD01.png?raw=true)
 
+### 📑[Sevice Center 공지사항 page]
+
+- 전체적인 공지사항 페이지를 만들고 헤드를 투명으로 만듬.
+
+![공지사항 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EA%B2%8C%EC%8B%9C%ED%8C%90.png?raw=true)
+
+### 📑[커뮤니티(Community) 화면]
+- 소통 활성화를 위한 참여형 구조: 고객이 직접 글을 작성하고 댓글로 소통할 수 있는 기능을 전면에 배치하여 서비스센터 내 활발한 유저 커뮤니티 형성.
+
+- 탭 기반의 카테고리 내비게이션: [전체], [자유게시판], [이용후기], [충전 팁], [공지사항]으로 분류하여 사용자가 원하는 주제의 게시글을 빠르게 필터링하도록 구현.
+
+- 직관적인 검색 및 글쓰기 UI: 게시글 검색 창과 메인 컬러(퍼플)가 적용된 '글쓰기' 버튼을 상단에 배치하여 유저의 행동 유도 및 접근성 극대화.
+
+- 대시보드형 통계 위젯 제공: 우측 하단에 '전체 게시글'과 '공지사항'의 개수를 실시간으로 시각화하는 커뮤니티 통계 컴포넌트 탑재.
+
+
 </details>
