@@ -24,5 +24,6 @@
 | ![login-membership](https://img.shields.io/badge/login-membership-%230891B2) |로그인 페이지와 회원가입(Membership) 페이지의 UI 디자인 및 프론트엔드 개발을 담당했습니다.|
 
 
-## 전체 상세페이지
+## 📑전체 상세페이지
+
 
