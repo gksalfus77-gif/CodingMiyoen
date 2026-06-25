@@ -2,9 +2,7 @@
 ## 🌐 CHARCAGE PROJECT
 
 
-
-
-![IMG](https://github.com/gksalfus77-gif/SimpleCodingWeb/blob/main/IMG/%EC%A0%84%EC%B2%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%84%A4%EB%AA%85.png?raw=true)
+![IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/CHARBARGE%20-%20frontend/IMG/%EC%A0%84%EC%B2%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%84%A4%EB%AA%85.png?raw=true)
 ### 🔖프론트 기술스텍
 | 기술 | 설명 |
 |------|------|
