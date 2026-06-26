@@ -93,6 +93,7 @@
 
 
 ![mambership](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/EATPICK%20-%20frontend/IMG/%ED%9A%8C%EC%9B%90%EA%B4%80%EB%A6%AC.png?raw=true)
+![mambership](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/EATPICK%20-%20frontend/IMG/%ED%9A%8C%EC%9B%90%EA%B4%80%EB%A6%AC02.png?raw=true)
 
 ### 👥 Admin Functionality: User Management (회원 관리 기능)
 플랫폼의 건강한 커뮤니티 환경을 유지하기 위해, 부적절한 이용자를 제재하고 회원 상태를 모니터링할 수 있는 회원 관리 인터페이스를 설계 및 구현했습니다.
