@@ -67,14 +67,14 @@
 <details>
 <summary>✨ 관리자페이지 화면 </summary>
 
-![LOG IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.png?raw=true)
+![membership-page](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/EATPICK%20-%20frontend/IMG/%EA%B4%80%EB%A6%AC%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%84%EC%B2%B4%20%ED%99%94%EB%A9%B4.png?raw=true)
 
-### 📑[로그인 화면]
-- 사용자 접근성을 고려한 로그인/회원가입 인터페이스 구현
+### 🖥️ Responsive Admin Dashboard (반응형 관리자 페이지)
+플랫폼의 효율적인 운영 관리를 위해 모바일, 태블릿, 데스크톱(홈페이지) 환경에 모두 대응하는 반응형 대시보드 UI를 설계하고 디자인 시스템을 구축했습니다.
 
-- 백그라운드 비주얼과 조화를 이루는 투명도(Opacity) 기반의 로그인 폼 디자인
+- 데스크톱(홈페이지) 버전: 넓은 화면을 활용하여 좌측 내비게이션 바와 우측의 데이터 요약 카드, 상세 데이터 테이블을 한눈에 파악할 수 있는 와이드 레이아웃을 구현했습니다.
 
-- 입력 폼(ID/Password) 및 버튼 컴포넌트의 반응형 스타일링
+- 일관된 브랜드 아이덴티티: 앞서 정의한 메인 레드 컬러 시스템을 관리자 페이지의 주요 활성화(Active) 메뉴와 버튼 등에 통일감 있게 적용하여 사용자 경험(UX)의 연속성을 유지했습니다.
 
 
 ![membership IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png?raw=true)
