@@ -17,7 +17,7 @@
 | ![frontmain](https://img.shields.io/badge/frontend-main-%236B7280) | 전체적인 사이트 UI/UX를 설계하고, 메인 화면을 HTML, CSS, React 기반으로 구현. |
 | ![Topmenu](https://img.shields.io/badge/frontend-Top%20Menu-FF69B4) | 로고, 카테고리, 검색창, 마이페이지, 장바구니 아이콘 배치.|
 | ![Product](https://img.shields.io/badge/frontend-%20Product%20Image-1E90FF) | 쇼핑몰 전반적인 상품이미지 구간을 모두 프론트함.|
-| ![login-membership](https://img.shields.io/badge/frontend-%20login-00FF00) |로그인 페이지와 회원가입(Membership) 페이지의 UI 디자인 및 프론트엔드 개발을 담당했습니다.|
+| ![login-membership](https://img.shields.io/badge/frontend-%20login%2Fmembers-00FF00) |로그인 페이지와 회원가입(Membership) 페이지의 UI 디자인 및 프론트엔드 개발을 담당했습니다.|
 
 
 ## 💻 주요(내파트) 화면 및 기능 상세
