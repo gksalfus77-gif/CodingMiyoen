@@ -27,7 +27,7 @@
 
 ![IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/MELLOW-OND%20-frontend/IMG/Dji%20%EB%93%9C%EB%A1%A0%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%20(Community)%20(2).png?raw=true)
 
-### 📑[메인 및 상세 페이지 프론트엔드 개발 & UI/UX 디자인]
+### 📑[메인 상세 페이지 프론트엔드 개발 & UI/UX 디자인]
 
 -🚗친환경 이동 서비스 메인 비주얼 디자인: 브랜드 아이덴티티를 살린 메인 배너 및 레이아웃 직접 디자인.
 
