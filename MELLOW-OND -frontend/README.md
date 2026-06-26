@@ -66,7 +66,7 @@
 
 
 <details>
-<summary> 상품구매 페이지 </summary>
+<summary> ✨상품구매 페이지 </summary>
 
 ![LOG IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/MELLOW-OND%20-frontend/IMG/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202026-06-26%20132727.png?raw=true)
 
