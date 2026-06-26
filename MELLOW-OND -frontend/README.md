@@ -58,7 +58,8 @@
 ![카페](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/MELLOW-OND%20-frontend/IMG/zjq.png?raw=true)
 
 
-### 📑[커뮤니티(Community) 화면]
+### 📑[ 전체적인 상품소개 페이지 ]
+
 
 
 </details>
