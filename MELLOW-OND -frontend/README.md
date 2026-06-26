@@ -1,7 +1,7 @@
 
 ## 🌐 CHARCAGE PROJECT
 
-![IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/Mellow%20Ond-%20frontend/IMG/%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8%20%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EC%84%A4%EB%AA%85.png?raw=true)
+<!-- ![IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/Mellow%20Ond-%20frontend/IMG/%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8%20%EB%B8%8C%EB%9E%9C%EB%93%9C%20%EC%84%A4%EB%AA%85.png?raw=true) -->
 ### 🔖프론트 기술스텍
 | 기술 | 설명 |
 |------|------|
