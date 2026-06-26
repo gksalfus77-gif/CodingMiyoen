@@ -53,6 +53,14 @@
 
 - 사용자 친화적 터치 타겟: 모바일 화면에서도 오동작 없이 명확한 내비게이션이 가능하도록 닫기 버튼(×) 및 메뉴 간격을 최적화했습니다.
 
+<img src="https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/EATPICK%20-%20frontend/IMG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-06-25%20194521.png?raw=true">
+
+
+###  📑Theme-based Color System (테마별 색상 시스템)
+
+-각 푸드 카테고리의 고유한 분위기와 아이덴티티를 시각적으로 전달하기 위해, Figma를 활용하여 테마별 맞춤형 컬러 팔레트를 체계적으로 정립했습니다.
+
+
 </details>
 
 
