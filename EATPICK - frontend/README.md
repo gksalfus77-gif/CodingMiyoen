@@ -45,6 +45,13 @@
 
 <img src="https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/EATPICK%20-%20frontend/IMG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-06-25%20194800.png?raw=true">
 
+### 📑Sidebar Navigation & Style Guide (사이드 메뉴 및 스타일 가이드)
+
+- 메인 페이지 사이드바: FOOD, COMMUNITY CENTER, 회원 메뉴(LOGIN, MEMBER, MANAGER)로 이어지는 직관적인 정보 구조(IA)를 반영했습니다.
+
+- 사이드 메뉴 진입 구조: 사용자의 모션 및 기기 환경에 맞춰 세부 서브 카테고리(지도 보기, 맛집 블로그, 세계요리식당 등)가 유연하게 확장 및 노출되는 반응형 내비게이션을 설계했습니다.
+
+- 사용자 친화적 터치 타겟: 모바일 화면에서도 오동작 없이 명확한 내비게이션이 가능하도록 닫기 버튼(×) 및 메뉴 간격을 최적화했습니다.
 
 </details>
 
