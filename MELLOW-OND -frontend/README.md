@@ -44,21 +44,10 @@
 
 ### 📑[로그인 화면]
 - 🎫비회원 주문 접근성을 고려한 멀티 로그인 시스템: 일반 회원 로그인 기능 외에도 쇼핑몰 특성에 맞춘 '비회원 로그인' 및 비밀번호 찾기, 회원가입 링크 전환 처리 컴포넌트 구축.
-
-
-![membership IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png?raw=true)
-
-### 📑[회원가입(Sign Up) 화면]
-- 도메인 특화 입력 폼 설계: 일반 정보(이름, 이메일, 비밀번호, 전화번호) 외에 전기차 충전 서비스에 필수적인 '차량번호' 입력란을 기본 폼에 배치하여 비즈니스 요구사항 충족.
-
-- 일관된 UI 톤앤매너 유지: 서비스 메인 컬러(퍼플)를 포인트 컬러 및 '가입 신청하기' 버튼에 적용하여 브랜드 아이덴티티 강화.
-
 </details>
 
-
-
 <details>
-<summary>✨ Service Center </summary>
+<summary>✨ Product page </summary>
 
 ![공지사항 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD01.png?raw=true)
 
