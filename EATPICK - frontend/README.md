@@ -35,6 +35,15 @@
 <img src="https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/EATPICK%20-%20frontend/IMG/%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true" width="500" height="700">
 <!-- ![반응형메인화면](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/EATPICK%20-%20frontend/IMG/%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true) -->
 
+### 📑Responsive Web Design (반응형 웹 디자인)
+
+- 우측 카테고리 퀵 메뉴: 스크롤 및 화면 크기에 반응하여 직관적인 탐색을 돕는 사이드 카테고리 바(PETZONE, VEGETARIANISM, MAINSTREAM 등)를 배치했습니다.
+
+- 시각적 계층 구조: 브랜드를 대표하는 귀여운 코기 셰프 캐릭터와 로고, 배경 요소를 조화롭게 배치하여 모바일 화면에서도 왜곡 없는 브랜드 이미지를 전달합니다.
+
+- 터치 친화적 UI: 모바일 사용자를 고려하여 우측의 사이드 메뉴 이미지 버튼들을 터치하기 알맞은 크기와 간격으로 설계했습니다.
+
+
 
 </details>
 
