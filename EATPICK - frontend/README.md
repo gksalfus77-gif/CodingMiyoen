@@ -25,7 +25,7 @@
 <details>
 <summary>✨ MAIN 화면</summary>
 
-![IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EB%A9%94%EC%9D%B8%EB%A9%94%EB%89%B4.png?raw=true)
+![IMG](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/EATPICK%20-%20frontend/IMG/%EB%A9%94%EC%9D%B8%EC%9D%B4%EB%AF%B8%EC%A7%80.png?raw=true)
 
 ### 📑[메인 및 상세 페이지 프론트엔드 개발 & UI/UX 디자인]
 
