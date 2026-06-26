@@ -49,13 +49,14 @@
 <details>
 <summary>✨ Product page </summary>
 
-![공지사항 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD01.png?raw=true)
+![볼 상품페이지](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/MELLOW-OND%20-frontend/IMG/%EB%B0%A5%EA%B7%B8%EB%A6%87.png?raw=true)
 
-### 📑[Sevice Center 공지사항 page]
+![볼2 상품이미지](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/MELLOW-OND%20-frontend/IMG/%EB%B0%A5%EA%B7%B8%EB%A6%872.png?raw=true)
 
-- 전체적인 공지사항 페이지를 만들고 헤드를 투명으로 만듬.
+![접시](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/MELLOW-OND%20-frontend/IMG/wjqtl.png?raw=true)
 
-![공지사항 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EA%B2%8C%EC%8B%9C%ED%8C%90.png?raw=true)
+![카페](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/MELLOW-OND%20-frontend/IMG/zjq.png?raw=true)
+
 
 ### 📑[커뮤니티(Community) 화면]
 - 소통 활성화를 위한 참여형 구조: 고객이 직접 글을 작성하고 댓글로 소통할 수 있는 기능을 전면에 배치하여 서비스센터 내 활발한 유저 커뮤니티 형성.
