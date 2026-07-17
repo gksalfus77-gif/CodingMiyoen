@@ -79,8 +79,7 @@ const MemberList: React.FC = () => {
         <tbody>
           {members.length > 0 ? (
             members.map((member) => {
-              const isActive = member.isDeleted === 'N' || !member.isDeleted;
-
+        
               return (
                 <tr key={member.email}>
                   <td>
