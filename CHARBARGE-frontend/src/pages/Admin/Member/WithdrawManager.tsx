@@ -65,7 +65,7 @@ const MemberDeletionManager: React.FC = () => {
                   </td>
                   {/* 📍 필드명 확인 필요: member.phone 인지 member.phoneNumber 인지 확인 */}
                   <td style={{ padding: '12px' }}>
-                    {member.phoneNumber || member.phone || '번호없음'}
+                    {member.phoneNumber || '번호없음'}
                   </td>
                   {/* 📍 가입날짜 필드명 확인: insertTime, createDate, regDate 등 */}
                   <td style={{ padding: '12px', fontSize: '13px' }}>

@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import "../css/brand.css";
-import "../js/Brand.js";
 import "../layout/Header.js";
 import "../layout/Footer.js";
 import Footer from "../layout/Footer.js";
