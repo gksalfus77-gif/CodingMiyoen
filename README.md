@@ -73,7 +73,7 @@
 
 - 전체적인 공지사항 페이지를 만들고 헤드를 투명으로 만듬.
 
-![공지사항 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EA%B2%8C%EC%8B%9C%ED%8C%90.png?raw=true)
+![커뮤니티 img](https://github.com/gksalfus77-gif/CodingMiyoen/blob/43d311f28b9a8fe1d01b3323cfea53aa263b6c4e/CHARBARGE-frontend/IMG/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
 
 ### 📑[커뮤니티(Community) 화면]
 - 소통 활성화를 위한 참여형 구조: 고객이 직접 글을 작성하고 댓글로 소통할 수 있는 기능을 전면에 배치하여 서비스센터 내 활발한 유저 커뮤니티 형성.
@@ -84,7 +84,7 @@
 
 - 대시보드형 통계 위젯 제공: 우측 하단에 '전체 게시글'과 '공지사항'의 개수를 실시간으로 시각화하는 커뮤니티 통계 컴포넌트 탑재.
 
-![자주묻는 질문](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EC%9E%90%EC%A3%BC%EB%AC%BB%EB%8A%94%20%EC%A7%88%EB%AC%B8.png?raw=true)
+![자주묻는 질문](https://github.com/gksalfus77-gif/CodingMiyoen/blob/43d311f28b9a8fe1d01b3323cfea53aa263b6c4e/CHARBARGE-frontend/IMG/%EC%9E%90%EC%A3%BC%EB%AC%BB%EB%8A%94%20%EC%A7%88%EB%AC%B8.png)
 
 - 효율적인 CS 응대를 위한 FAQ 구축: 사용자가 자주 묻는 질문들을 한눈에 확인하고 해결할 수 있도록 설계하여 고객센터의 운영 효율성 증대.
 
@@ -93,7 +93,7 @@
 
 ### 📑[고객센터 화면]
 
-![고객센터](https://github.com/gksalfus77-gif/CodingMiyoen/blob/main/IMG/%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0.png?raw=true)
+![고객센터](https://github.com/gksalfus77-gif/CodingMiyoen/blob/43d311f28b9a8fe1d01b3323cfea53aa263b6c4e/CHARBARGE-frontend/IMG/%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0.png)
 
 - 다채널 고객 지원 내비게이션: 상단에 [1:1 고객문의], [커뮤니케이션], [자주 묻는 질문] 카드를 배치하여 원하는 지원 채널로의 즉각적인 이동 지원.
 
