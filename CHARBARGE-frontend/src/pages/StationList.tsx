@@ -219,7 +219,7 @@ const StationList = () => {
     if ((window as any).kakao && (window as any).kakao.maps) initMap();
     else {
       const script = document.createElement("script");
-      script.src = `//dapi.kakao.com/v2/maps/sdk.js?appkey=YOUR_APP_KEY&libraries=services&autoload=false`;
+      script.src = `//dapi.kakao.com/v2/maps/sdk.js?appkey=7b77fea87bb7bc365d22886ad2d0a3c3&libraries=services&autoload=false`;
       script.onload = () => initMap();
       document.head.appendChild(script);
     }
