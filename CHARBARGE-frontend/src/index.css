@@ -1,3 +1,27 @@
 /* 여기는 공통 css 영역입니다. */
 /* @import "tailwindcss"; */
 @import "rc-pagination/assets/index.css";
+
+/* 카카오맵 등 height: 100% 를 쓰는 컴포넌트를 위해
+   html -> body -> #root -> #wrapper -> .content-area -> main
+   체인 전체에 높이를 명시적으로 지정합니다. */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+#wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-area {
+  flex: 1;
+  min-height: 0; /* flex 자식이 내용 때문에 넘치지 않도록 */
+}
+
+.content-area main {
+  height: 100%;
+}
